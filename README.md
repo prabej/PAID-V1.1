@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ## ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @NANGG-BADUTCODE**
+* **Visitor Github @MATHEE-FAKER**
 ![NANGG-BADUTCODE](https://komarev.com/ghpvc/?username=NANGG-BADUTCODE&color=blue)
 * **Visitor Trending @nangg.badutcode**
 ![NANGG-BADUTCODE](https://komarev.com/ghpvc/?username=NANGG-BADUTCODE&color=blue)
